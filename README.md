@@ -43,27 +43,27 @@ Average Customer Spend: $3,520.98
 
 📈 **Dashboard Insights**
 
-🎉 Revenue by Occasion
+🎉 **Revenue by Occasion**
 Anniversary: ~$670K
 Raksha Bandhan: ~$630K
 Holi: ~$580K
 
-🛍️ Revenue by Category
+🛍️ **Revenue by Category**
 Colors: ~$1.0M (Top category)
 Soft Toys: ~$750K
 Sweets: ~$730K
 
-🏆 Top Products by Revenue
+🏆 **Top Products by Revenue**
 Magnum Set: ~$120K
 Quia Gift: ~$115K
 Dolores Gift: ~$105K
 
-🌍 Top Cities by Orders
+🌍 **Top Cities by Orders**
 Imphal (~29 orders)
 Dhanbad (~28 orders)
 Kavai (~27 orders)
 
-⏰ Sales Trends
+⏰ **Sales Trends**
 Peak sales observed during evening hours (18:00–20:00)
 Monthly trend shows fluctuations with a spike in overall revenue
 
